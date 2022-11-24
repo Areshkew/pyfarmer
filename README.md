@@ -7,6 +7,10 @@
 - Python
 - PyQT
 - QT Designer
+- MVC Architecture
+- Separation of concerns
+- Responsibilities delegation
+- Modulation
 
 ## 🧑‍💻 Author
 
